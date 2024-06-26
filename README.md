@@ -1,2 +1,2 @@
 # rvmcalc
-A basic arithmatic expression evaluator using rvm
+A basic arithmetic expression evaluator using rvm
